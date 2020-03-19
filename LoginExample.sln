@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginExample", "LoginExample\LoginExample.csproj", "{2BC27AB4-EF96-48CE-B8A1-E7AC4C5CC448}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win32AuthNative", "Win32AuthNative\Win32AuthNative.csproj", "{73AB54BC-4AFD-4893-86C8-0415D23A6DC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSALib", "LSALib\LSALib.csproj", "{1F45CA12-F932-4C53-9E5B-12F0FB2ECADB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{2BC27AB4-EF96-48CE-B8A1-E7AC4C5CC448}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BC27AB4-EF96-48CE-B8A1-E7AC4C5CC448}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BC27AB4-EF96-48CE-B8A1-E7AC4C5CC448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73AB54BC-4AFD-4893-86C8-0415D23A6DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73AB54BC-4AFD-4893-86C8-0415D23A6DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73AB54BC-4AFD-4893-86C8-0415D23A6DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73AB54BC-4AFD-4893-86C8-0415D23A6DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F45CA12-F932-4C53-9E5B-12F0FB2ECADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F45CA12-F932-4C53-9E5B-12F0FB2ECADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F45CA12-F932-4C53-9E5B-12F0FB2ECADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F45CA12-F932-4C53-9E5B-12F0FB2ECADB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
